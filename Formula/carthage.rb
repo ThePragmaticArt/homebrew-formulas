@@ -4,7 +4,7 @@ class Carthage < Formula
   url "https://github.com/thepragmaticart/Carthage.git",
       :tag      => "0.40.1+nsoperations",
       :version  => "0.40.1",
-      :revision => "16dac63e6d2affbf10ce66a7c32104d187bfe209",
+      :revision => "6b4b2706adf09f2f39d8ee3917ed14cc2a002026",
       :shallow  => false
   head "https://github.com/thepragmaticart/Carthage.git", :shallow => false
 
